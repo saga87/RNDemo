@@ -1,0 +1,19 @@
+{
+  "name": "RNDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "author": "lp",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-native": "^0.55.4"
+  }
+}
